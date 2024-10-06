@@ -19,6 +19,7 @@
 
 | Splash | Main | Details | My Cart | 
 |:-:|:-:|:-:|:-:|
-| ![image](https://github.com/user-attachments/assets/bbaf46d1-0bc7-4787-bb24-538f174360ab) | ![image](https://github.com/user-attachments/assets/01ebeb15-ec9b-4b55-b709-3ef850c0bcff) | ![image](https://github.com/user-attachments/assets/7295ba3c-7103-4729-abfd-09789f4901ff)| ![image](https://github.com/user-attachments/assets/f852f248-85cc-44cb-9b50-06ce28e0caaa) | 
+| ![image](https://github.com/user-attachments/assets/bbaf46d1-0bc7-4787-bb24-538f174360ab) | ![image](https://github.com/user-attachments/assets/0e1806f7-fa32-4279-9a1b-4f3225bd5aa1)
+ | ![image](https://github.com/user-attachments/assets/0d5d32f5-08c9-4a97-bf36-e3ce89eeb87c) | ![Ekran görüntüsü 2024-10-06 193427](https://github.com/user-attachments/assets/58647430-a748-43cb-8ccd-f0d134ac31be) | 
 
 
